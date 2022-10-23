@@ -1,2 +1,2 @@
-# C-
+# C++
 códigos em C++
